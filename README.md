@@ -1,7 +1,6 @@
-### Hi there 👋
-
 Im interested in Marketing, ML, DL and participating in related competition 🌱<br> 
 I focus on connecting Business and AI ⚡ <br> 
+
 
 
 <!--
