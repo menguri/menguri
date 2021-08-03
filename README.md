@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+안녕하세요. 
+Marketing, ML, DL에 관심있고, 관련 대회에 참가하며 배우고 있습니다.
+비즈니스와 Ai를 연결하는데 집중합니다.
+
+
 <!--
 **menguri/menguri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
