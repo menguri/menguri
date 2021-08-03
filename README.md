@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-안녕하세요. <br> 
-Marketing, ML, DL에 관심있고, 관련 대회에 참가하며 배우고 있습니다. <br> 
-비즈니스와 AI를 연결하는데 집중합니다. <br> 
+Im interested in Marketing, ML, DL and participating in related competition 🌱<br> 
+I focus on connecting Business and AI ⚡ <br> 
 
 
 <!--
