@@ -1,7 +1,9 @@
-<h3> MINGU, KANG :jack_o_lantern: </h3>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmenguri&count_bg=%230155E3&title_bg=%230D0D0C&icon=postwoman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-Im interested in Marketing, ML, DL.<br> 
-I focus on connecting Business and AI. <br> 
+<h3> MINGU, KANG :jack_o_lantern: </h3>
+Im interested in Marketing, ML, DL.<br>  
+I focus on connecting Business and AI. <br>
+> Note: I'm Problem Solver.
 
 <h3> Competition :moneybag: </h3>
 
