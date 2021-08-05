@@ -1,5 +1,14 @@
-Im interested in Marketing, ML, DL and participating in related competition 🌱<br> 
-I focus on connecting Business and AI ⚡ <br> 
+<h3> MINGU, KANG :jack_o_lantern: </h3>
+
+Im interested in Marketing, ML, DL and participating in related competition.<br> 
+I focus on connecting Business and AI. <br> 
+
+<h3> Competition :moneybag: </h3>
+
+| 대회 | 대회명 | 순위 | 상위 |
+| ------ | ------ | ------ | ------ |
+| Dacon | 주차수요 예측 AI 대회 | 41/504 | 상위 10% |
+
 
 
 
