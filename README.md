@@ -1,6 +1,6 @@
 <h3> MINGU, KANG :jack_o_lantern: </h3>
 
-Im interested in Marketing, ML, DL and participating in related competition.<br> 
+Im interested in Marketing, ML, DL.<br> 
 I focus on connecting Business and AI. <br> 
 
 <h3> Competition :moneybag: </h3>
