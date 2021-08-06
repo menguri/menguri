@@ -2,7 +2,7 @@
 
 <h3> MINGU, KANG :jack_o_lantern: </h3>
 Im interested in Marketing, ML, DL.<br>  
-I focus on connecting Business and AI. <br>
+My passion lies at the intersection of machine learning, data science, and Business.<br>
 
 > Note: I'm Problem Solver.
 
