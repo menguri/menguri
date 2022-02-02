@@ -4,7 +4,7 @@
 Im interested in Data Science.<br>  
 My passion lies at the intersection of machine learning, data science, and Business.<br>
 
-> Note: I'm Problem Solver.
+> License: 투자자산운용사(💲).
 
 <h3> Competition :moneybag: </h3>
 
