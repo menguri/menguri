@@ -12,6 +12,4 @@ My passion lies at the intersection of machine learning, data science, and Busin
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 인공지능팩토리 | NH투자증권 빅데이터 경진대회 | 최종 16팀 선정 | 입선 | 2022.12 | NH투자증권 |
 | Dacon | 주차수요 예측 AI 대회 | 41/504 | 상위 9% | 2021.07 | 한국주택토지공사 |
-| Dacon | 택배운송량 예측 대회 | 105/237 | 상위 45% | 2021.12 | 국토연구원 |
-| Dacon | Samsung AI Challenge for Scientific Discovery | 185/220 | 상위 85% | 2021.09 | Samsung |
 | Kaggle | G-Research Crypto Forecasting | 607/1946 | 상위 31% | 2021.12 | G-research |
