@@ -1,6 +1,6 @@
 <h3> MINGU, KANG :jack_o_lantern: </h3>
 Now, Im working in MLIC laboratory (UNIST AI).<br>  
-My passion lies at the intersection of Reinforcement Learning and Robotics.<br>
+My passion lies at the intersection of Reinforcement Learning and Finance.<br>
 
 > License: 투자자산운용사(💲), ADsP
 
