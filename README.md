@@ -22,9 +22,9 @@ Background in business & finance, with hands-on experience connecting domain kno
 
 | Repo | Description |
 | ------ | ------ |
-| [zsc-ov2-lab](https://github.com/mingukang/zsc-ov2-lab) | Zero-shot coordination research in MARL · Overcooked-based experiments |
+| [zsc-ov2-lab](https://github.com/menguri/zsc-ov2-lab) | Zero-shot coordination research in MARL · Overcooked-based experiments |
 | [LLM-ACL](https://github.com/lococaeco/LLM-ACL) | LLaMA 8B integrated into MuJoCo RL pipeline for reward shaping & noise control |
-| [SK-AI-competition-autonomous-driving](https://github.com/mingukang/SK-AI-competition-autonomous-driving) | Autonomous driving AI competition · top 30% (15/42) |
+| [SK-AI-competition-autonomous-driving](https://github.com/menguri/SK-AI-competition-autonomous-driving) | Autonomous driving AI competition · top 30% (15/42) |
 
 > ICML 2026 submission code will be released upon acceptance.
 
