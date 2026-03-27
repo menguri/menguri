@@ -1,6 +1,6 @@
 <h2> Mingu Kang 🎃 </h2>
 
-**MARL Researcher** · MS Student @ [MLIC Lab](https://mlic.unist.ac.kr/), UNIST AI<br>
+**MARL Researcher** · MS Student @ [MLIC Lab](https://mllab.unist.ac.kr/), UNIST AI<br>
 Interested in **Multi-Agent Reinforcement Learning** — especially zero-shot coordination and robustness.<br>
 Background in business & finance, with hands-on experience connecting domain knowledge to ML systems.<br>
 
