@@ -13,7 +13,7 @@ Background in business & finance, with hands-on experience connecting domain kno
 | Title | Venue | Status |
 | ------ | ------ | ------ |
 | Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning [2] | ICML 2026 | Published |
-| VERSA: Verified Event Data Format for Reliable Soccer Analytics | PAKDD 2026 | Under Review |
+| VERSA: Verified Event Data Format for Reliable Soccer Analytics | CKIM 2027 | Under Review |
 | Deep Learning-based Pass Intent Prediction in Football Matches | KCC 2024 | Published |
 
 ---
