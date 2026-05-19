@@ -1,6 +1,6 @@
 <h2> Mingu Kang 🎃 </h2>
 
-**MARL Researcher** · MS Student @ [MLIC Lab](https://mllab.unist.ac.kr/), UNIST AI<br>
+MARL Researcher · MS Student @ [MLIC Lab](https://mllab.unist.ac.kr/), UNIST AI<br>
 Interested in **Multi-Agent Reinforcement Learning** — especially zero-shot coordination and robustness.<br>
 Background in business & finance, with hands-on experience connecting domain knowledge to ML systems.<br>
 
@@ -12,7 +12,7 @@ Background in business & finance, with hands-on experience connecting domain kno
 
 | Title | Venue | Status |
 | ------ | ------ | ------ |
-| Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning | ICML 2026 | Under Review |
+| Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning | [2] ICML 2026 | Published |
 | VERSA: Verified Event Data Format for Reliable Soccer Analytics | PAKDD 2026 | Under Review |
 | Deep Learning-based Pass Intent Prediction in Football Matches | KCC 2024 | Published |
 
